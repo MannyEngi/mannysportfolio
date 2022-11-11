@@ -2,7 +2,7 @@ import Navbar from "./Components/Navbar/navbar"
 import Intro from "./Components/Intro/Intro";
 import About from "./Components/About/About";
 import Experience from "./Components/Experience/Experience";
-import Works from "./Components/Works/Works";
+// import Works from "./Components/Works/Works";
 import Portfolio from "./Components/Portfolio/Portfolio";
 import Testimonials from "./Components/Testimonials/Testimonials";
 import Contact from "./Components/Contact/Contact";
@@ -27,7 +27,7 @@ function App() {
     <Intro/>
     <About/>
     <Experience/>
-    <Works/>
+    {/*<Works/>*/}
     <Portfolio/>
     <Testimonials/>
     <Contact/>

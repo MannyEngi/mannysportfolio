@@ -19,9 +19,11 @@ const About = () => {
                 <span style={{color: darkMode? 'white': ''}}>Get to Know</span>
                 <span>About Me</span>
                 <spane>
-                    This is just some fucking writing so fuck you. Letr me add some more text
+                    A San Francisco native with a passion for science, technology, engineering,
                     <br />
-                    And here is an additional writing. Fuck I neeed these tutorials
+                    and mathematics. I have great experience in website development and design.
+                    <br />
+
                 </spane>
                 <a href={Resume} download>
                 <button className="button s-button">Resume</button>
@@ -35,7 +37,7 @@ const About = () => {
                     <Card
                     emoji = {HeartEmoji}
                     heading = {'Experience'}
-                    details = { "2.5+ Years Working Bachelor of Science in Software Engineering"}
+                    details = { "2.5+ Years Working Enterprise Level."}
 
                     />
                 </div>
@@ -51,7 +53,7 @@ const About = () => {
                     <Card
                         emoji = {Humble}
                         heading = {'Freelance'}
-                        details = { "10+ Projects Completed Bachelor of Science in Software Engineering"}
+                        details = { "10+ Projects Completed"}
 
                     />
                 </div>
