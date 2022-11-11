@@ -21,9 +21,11 @@ const About = () => {
                 <spane>
                     A San Francisco native with a passion for science, technology, engineering,
                     <br />
-                    and mathematics. I have great experience in website development and design.
+                    and mathematics. A graduate from San Jose State University, the capital of
                     <br />
-
+                    Silicon Valley. A huge passion for new technologies and start up environment.
+                    <br />
+                    and great experience in software development and design.
                 </spane>
                 <a href={Resume} download>
                 <button className="button s-button">Resume</button>
@@ -57,7 +59,6 @@ const About = () => {
 
                     />
                 </div>
-                {/*<div className="blur s-blur2" style={{background: 'var(--purple)'}}></div>*/}
             </div>
 
 
