@@ -13,22 +13,22 @@ const Works = () => {
     const darkMode = theme.state.darkMode;
     return (
         <div className="works">
-            <div className="awesome">
-                {/*    Left Side*/}
-                <span style={{color: darkMode? 'white': ''}}>Work Experience</span>
-                <span>Clients</span>
-                <spane>
-                    This is just some fucking writing so fuck you. Letr me add some more text
-                    <br />
-                    And here is an additional writing. Fuck I neeed these tutorials
-                    <br/>
-                    Some more additional text this is not my full website just yet.
-                    <br/>
-                    When you know you can do better, you will! Do not let anyone stop you down.
-                </spane>
-                    <button className="button s-button">Hire Me</button>
-                {/*<div className="blur s-blur1" style={{background: '#ABF1FF94'}}></div>*/}
-            </div>
+            {/*<div className="awesome">*/}
+            {/*    /!*    Left Side*!/*/}
+            {/*    <span style={{color: darkMode? 'white': ''}}>Work Experience</span>*/}
+            {/*    <span>Clients</span>*/}
+            {/*    <spane>*/}
+            {/*        This is just some fucking writing so fuck you. Letr me add some more text*/}
+            {/*        <br />*/}
+            {/*        And here is an additional writing. Fuck I neeed these tutorials*/}
+            {/*        <br/>*/}
+            {/*        Some more additional text this is not my full website just yet.*/}
+            {/*        <br/>*/}
+            {/*        When you know you can do better, you will! Do not let anyone stop you down.*/}
+            {/*    </spane>*/}
+            {/*        <button className="button s-button">Hire Me</button>*/}
+            {/*    /!*<div className="blur s-blur1" style={{background: '#ABF1FF94'}}></div>*!/*/}
+            {/*</div>*/}
             {/*Right Side*/}
             <div className="w-right">
                 <div className="w-mainCircle">
