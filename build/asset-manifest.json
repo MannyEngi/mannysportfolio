@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07ef2eaf.css",
+    "main.js": "/static/js/main.fb0af5fa.js",
+    "static/media/ecommerce.png": "/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/sidebar.png": "/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/Resume.pdf": "/static/media/Resume.8a2297be69cfbda8485d.pdf",
+    "static/media/Manny.png": "/static/media/Manny.e4f074da20df50231879.png",
+    "static/media/hoc.png": "/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.07ef2eaf.css.map": "/static/css/main.07ef2eaf.css.map",
+    "main.fb0af5fa.js.map": "/static/js/main.fb0af5fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ef2eaf.css",
+    "static/js/main.fb0af5fa.js"
+  ]
+}
