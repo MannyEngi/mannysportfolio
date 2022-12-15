@@ -3,8 +3,10 @@
     align-items: center;
     margin: -0.5rem -3.5rem;
     position: relative;
-    margin-top: -7rem;
-
+    margin-top: -8rem;
+    /*padding-bottom: 4rem;*/
+    /*height: 100px;*/
+    /*margin-bottom: 2rem;*/
 }
 
 .f-content {
@@ -14,8 +16,9 @@
     justify-content: center;
     flex-direction: column;
     width: 100%;
-    margin-top: 4rem;
-    gap: 4rem;
+    /*height: 100%;*/
+    margin-top: 8rem;
+    gap: 0.5rem;
     color: white;
 }
 
@@ -25,7 +28,17 @@
 }
 
 @media screen and (max-width: 480px) {
+    .footer {
+        display: flex;
+        align-items: center;
+        padding-top: -10rem;
+        width: 150%;
+    }
+    .f-content {
+        margin-top: 8rem;
+        margin-right: 10rem;
+    }
     .f-icons {
-        margin-top: -2rem;
+        margin-top: -4rem;
     }
 }
