@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.c73d1d4a.css",
-    "main.js": "/static/js/main.6097dc5d.js",
+    "main.css": "/static/css/main.533ab93e.css",
+    "main.js": "/static/js/main.e49e445a.js",
     "static/media/ecommerce.png": "/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/sidebar.png": "/static/media/sidebar.b2225070b8adae68d063.png",
     "static/media/musicapp.png": "/static/media/musicapp.f1c301f91904ef5f9249.png",
     "static/media/Resume.pdf": "/static/media/Resume.8a2297be69cfbda8485d.pdf",
+    "static/media/profile3.jpg": "/static/media/profile3.2e3e61561a78f00214c5.jpg",
     "static/media/Manny.png": "/static/media/Manny.e4f074da20df50231879.png",
+    "static/media/profile4.jpg": "/static/media/profile4.250518d77eaebaeea50b.jpg",
+    "static/media/profile2.jpg": "/static/media/profile2.b6864ae2293b72b56489.jpg",
     "static/media/hoc.png": "/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/profile1.jpg": "/static/media/profile1.daa42477e3ab2f18f622.jpg",
     "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
     "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
     "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
     "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/index.html",
-    "main.c73d1d4a.css.map": "/static/css/main.c73d1d4a.css.map",
-    "main.6097dc5d.js.map": "/static/js/main.6097dc5d.js.map"
+    "main.533ab93e.css.map": "/static/css/main.533ab93e.css.map",
+    "main.e49e445a.js.map": "/static/js/main.e49e445a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c73d1d4a.css",
-    "static/js/main.6097dc5d.js"
+    "static/css/main.533ab93e.css",
+    "static/js/main.e49e445a.js"
   ]
 }

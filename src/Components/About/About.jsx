@@ -48,7 +48,7 @@ const About = () => {
                     <Card
                     emoji = {HeartEmoji}
                     heading = {'Experience'}
-                    details = { "3+ Years Working Enterprise Level."}
+                    details = { "3+ Years Working Enterprise Level Software Companies"}
 
                     />
                 </div>
@@ -64,7 +64,7 @@ const About = () => {
                     <Card
                         emoji = {Humble}
                         heading = {'Freelance'}
-                        details = { "10+ Projects Completed"}
+                        details = { "Over 10+ Projects Completed with Excellent Satisfactory"}
 
                     />
                 </div>

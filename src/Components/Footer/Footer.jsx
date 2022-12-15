@@ -8,7 +8,7 @@ import Twitter from '@iconscout/react-unicons/icons/uil-twitter'
 const Footer = () => {
     return (
         <div className="footer">
-            <img src={Wave} alt="" style={{width: '100%'}} />
+            <img className="f-img" src={Wave} alt="" style={{width: '100%'}} />
             <div className="f-content">
                 <div className="f-icons">
                     <Insta color="white" size="2rem"/>

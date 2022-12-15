@@ -3,7 +3,7 @@
     align-items: center;
     margin: -0.5rem -3.5rem;
     position: relative;
-    margin-top: -8rem;
+    margin-top: -7rem;
 
 }
 
@@ -15,7 +15,7 @@
     flex-direction: column;
     width: 100%;
     margin-top: 4rem;
-    gap: 0.5rem;
+    gap: 4rem;
     color: white;
 }
 
@@ -26,6 +26,6 @@
 
 @media screen and (max-width: 480px) {
     .f-icons {
-        margin-top: -0.5rem;
+        margin-top: -2rem;
     }
 }
