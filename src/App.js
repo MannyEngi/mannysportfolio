@@ -2,7 +2,6 @@ import Navbar from "./Components/Navbar/navbar"
 import Intro from "./Components/Intro/Intro";
 import About from "./Components/About/About";
 // import Experience from "./Components/Experience/Experience";
-// import Works from "./Components/Works/Works";
 // import Services from "./Components/Services/Services";
 import Portfolio from "./Components/Portfolio/Portfolio";
 import Testimonials from "./Components/Testimonials/Testimonials";
