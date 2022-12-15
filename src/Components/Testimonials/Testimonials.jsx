@@ -17,22 +17,24 @@ const Testimonials = () => {
         {
             img: profilePic1,
             review:
-            "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo",
+            "Manny is a hard-working and keen developer. He brings a willingness to do work, paired with a strong desire to learn and produce. He played a key role in our product development, from developing Node lambda functions and Jest unit tests, through AWS operations and systems testing. Manny embraced every challenge, and graciously accepted all feedback. Manny is the relentless positive influence that you want on your team. " +
+                "Mike Epps, CTO, Direct Manager"
         },
         {
             img: profilePic2,
             review:
-                "Some Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo",
-        },
-        {
-            img: profilePic3,
-            review:
-                "Some other Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo",
+            "Manny is the only person I have ever hired full time from the thousands of students I have taught over a decade of teaching at San Jose State and handful I have employed as summer interns. His collaboration extended far beyond his normal senior project to 4 different software teams including one group in the masters’ program and another where he was their advisor after graduating."
         },
         {
             img: profilePic4,
             review:
-                "Some Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo",
+                "Manny played a key leadership role in my company conceptualizing and leading the development of a backend using Django (a Python-based framework), frontend engineering using ReactJS database with Django’s built-in SQLite, UiPath deployment integration using the automated software tool as part of the tech stack, API integration using Postman, testing, and UI/UX prototyping using Figma."
+        },
+        {
+            img: profilePic3,
+            review:
+                "Manny Cestoni is one of the most hardworking person I have met. I have known Manny for almost eight years. We attended San Jose State, worked at two companies, such as Sidewalk Juice, where I was manager, and at The Window Specialist, where he was the supervisor. Manny is a brilliant young man who gives his all in any situation he faces. He is the creator and the innovator in many successes." +
+                "Business Analyst, MBA Graduate SJSU."
         },
     ]
     return (

@@ -2,9 +2,19 @@ import React from 'react'
 import './navbar.css'
 import "../Toggle/Toggle"
 import Toggle from "../Toggle/Toggle";
-import {Link} from 'react-scroll'
+import { Link, Button } from 'react-scroll'
+import { useRef } from 'react';
+import Contact from '../Contact/Contact';
 
 const Navbar = () => {
+    const ref = useRef(null);
+    const handleClick = ()  => {
+        ref.current?.scrollIntoView(
+            {
+                ref: 'Contact',
+                behavior: 'smooth'
+                });
+    };
     return (
         <div className="n-wrapper">
             <div className="n-left">
@@ -20,9 +30,9 @@ const Navbar = () => {
                         <Link spy={true} to='About' smooth={true}>
                             <li>Experience</li>
                         </Link>
-                        <Link spy={true} to='Experience' smooth={true}>
-                            <li>Services</li>
-                        </Link>
+                        {/*<Link spy={true} to='Experience' smooth={true}>*/}
+                        {/*    <li>Services</li>*/}
+                        {/*</Link>*/}
                         <Link spy={true} to='Portfolio' smooth={true}>
                             <li>Portfolio</li>
                         </Link>
@@ -32,7 +42,7 @@ const Navbar = () => {
 
                     </ul>
                 </div>
-                <button className="button">
+                <button className="button" onClick={() => handleClick(Contact)} >
                     Contact
                 </button>
             </div>

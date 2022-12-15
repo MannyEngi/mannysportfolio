@@ -1,4 +1,4 @@
-import React, {useContext, useRef, useState} from 'react'
+import React, {useContext, useRef, useState, forwardRef } from 'react'
 import "./Contact.css"
 import emailjs from '@emailjs/browser';
 import {themeContext} from "../../Context";
@@ -21,7 +21,7 @@ const Contact = () => {
             });
     };
     return (
-        <div className="contact-form">
+        <div className="contact-form" >
             <div className="w-left">
                 <div className="awesome">
                     <span style={{color: darkMode? 'white': ''}}>Get in touch</span>
@@ -39,9 +39,7 @@ const Contact = () => {
                 </form>
             </div>
         </div>
-
-
     )
 }
 
-export default Contact
+export default forwardRef(Contact);

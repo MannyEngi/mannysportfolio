@@ -19,13 +19,22 @@ const About = () => {
                 <span style={{color: darkMode? 'white': ''}}>Get to Know</span>
                 <span>About Me</span>
                 <spane>
-                    A San Francisco native with a passion for science, technology, engineering,
+                    {/*A San Francisco native with a passion for science, technology, engineering,*/}
+                    {/*<br />*/}
+                    {/*and mathematics. A graduate from San Jose State University, the capital of*/}
+                    {/*<br />*/}
+                    {/*Silicon Valley. A huge passion for new technologies and start up environment.*/}
+                    {/*<br />*/}
+                    {/*and great experience in software development and design.*/}
+                    Born and raised in San Francisco, CA, a passion for science, technology, engineering,
+                    <br/>
+                    and mathematics. Graduated from San Jose State University with a Bachelor in
+                    <br/>
+                    Science in SoftwareEngineering. While at San Jose State, the capital of Silicon
+                    <br/>
+                    Valley, worked in very high levelprojects with other student engineers that led
                     <br />
-                    and mathematics. A graduate from San Jose State University, the capital of
-                    <br />
-                    Silicon Valley. A huge passion for new technologies and start up environment.
-                    <br />
-                    and great experience in software development and design.
+                    to rewarding outcomes of having participating in national competitions.
                 </spane>
                 <a href={Resume} download>
                 <button className="button s-button">Resume</button>
@@ -39,7 +48,7 @@ const About = () => {
                     <Card
                     emoji = {HeartEmoji}
                     heading = {'Experience'}
-                    details = { "2.5+ Years Working Enterprise Level."}
+                    details = { "3+ Years Working Enterprise Level."}
 
                     />
                 </div>
